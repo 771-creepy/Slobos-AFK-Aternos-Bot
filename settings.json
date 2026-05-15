@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ServeurSMP.aternos.me:26508",
+    "ip": "ServeurSMP.aternos.me",
     "port": 26508,
     "version": "1.21.11",
     "try-creative": false
