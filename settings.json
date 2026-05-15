@@ -8,7 +8,7 @@
   "server": {
     "ip": "ServeurSMP.aternos.me:26508",
     "port": 26508,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
